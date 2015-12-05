@@ -1,0 +1,4 @@
+C:\Users\nex25jk\Documents\Visual Studio 2010\Projects\RingWayJacobsProxy\RingWayJacobsProxy\bin\RingWayJacobsProxy.dll
+C:\Users\nex25jk\Documents\Visual Studio 2010\Projects\RingWayJacobsProxy\RingWayJacobsProxy\bin\RingWayJacobsProxy.pdb
+C:\Users\nex25jk\Documents\Visual Studio 2010\Projects\RingWayJacobsProxy\RingWayJacobsProxy\obj\Debug\RingWayJacobsProxy.dll
+C:\Users\nex25jk\Documents\Visual Studio 2010\Projects\RingWayJacobsProxy\RingWayJacobsProxy\obj\Debug\RingWayJacobsProxy.pdb
